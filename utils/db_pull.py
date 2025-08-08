@@ -2,13 +2,13 @@ from  sqlalchemy import create_engine
 import pandas as pd
 import os
 from dotenv import load_dotenv
-from logger import get_logger
+from utils.logger import get_logger
 
 logger = get_logger('db_pull_logger','logs/logging.txt')
 
 print(logger)
 
-load_dotenv
+load_dotenv()
 
 
 def get_data():

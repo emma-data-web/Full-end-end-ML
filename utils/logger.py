@@ -9,8 +9,8 @@ def get_logger(name, log_file,level=logging.DEBUG):
   if not logger.hasHandlers():
     file_handler = TimedRotatingFileHandler(
       filename=log_file,
-              when='m',     
-              interval=1,          
+              when='H',     
+              interval=10,          
               backupCount=7
     )
     file_handler.setLevel(logging.DEBUG)

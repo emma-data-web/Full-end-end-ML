@@ -1,0 +1,14 @@
+{
+
+  "log_path": {
+    "db_logger_file_path": "logs/logging.txt"
+  },
+  "logger_names": {
+    "db_logger": "db_pull_logger"
+  },
+  "Queries": {
+    "db_pull_query": "select * from titanic_train"
+  }
+  
+
+}

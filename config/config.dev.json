@@ -1,14 +1,21 @@
 {
 
   "log_path": {
-    "db_logger_file_path": "logs/logging.txt"
+    "db_logger_file_path": "logs/logging.txt",
+    "train_file_path": "logs/logging.txt"
   },
   "logger_names": {
-    "db_logger": "db_pull_logger"
+    "db_logger": "db_pull_logger",
+    "train_logger": "training_logger"
   },
   "Queries": {
     "db_pull_query": "select * from titanic_train"
-  }
+  },
+
+  
+    "model_path": {
+      "trained_model": "models/trained_model.pkl"
+    }
   
 
 }

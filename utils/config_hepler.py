@@ -8,3 +8,4 @@ def load_config():
   
   with open(config_path, 'r') as f:
     return json.load(f)
+  

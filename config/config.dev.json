@@ -2,20 +2,24 @@
 
   "log_path": {
     "db_logger_file_path": "logs/logging.txt",
-    "train_file_path": "logs/logging.txt"
+    "train_file_path": "logs/logging.txt",
+    "loop_path": "logs/logging.txt",
+    "new_data_path": "logs/logging.txt"
   },
   "logger_names": {
     "db_logger": "db_pull_logger",
-    "train_logger": "training_logger"
+    "train_logger": "training_logger",
+    "loop_logger": "loop_logger",
+    "new_data_logger": "loop_logger"
   },
   "Queries": {
     "db_pull_query": "select * from titanic_train"
   },
 
   
-    "model_path": {
+  "model_path": {
       "trained_model": "models/trained_model.pkl"
-    }
+    },
   
-
+    "loop_time": 60
 }

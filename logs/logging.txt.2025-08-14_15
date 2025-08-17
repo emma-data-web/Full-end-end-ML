@@ -1,0 +1,185 @@
+db_pull_logger - 2025-08-14 13:37:09,356 - INFO - if query loaded, return 714
+db_pull_logger - 2025-08-14 13:40:32,573 - INFO - if query loaded, return 714
+loop_logger - 2025-08-14 13:40:33,486 - INFO - no new rows founds!!
+db_pull_logger - 2025-08-14 14:15:29,297 - INFO - if query loaded, return 715
+loop_logger - 2025-08-14 14:15:29,576 - ERROR - Error in get_new_rows: module 'datetime' has no attribute 'now'
+db_pull_logger - 2025-08-14 14:16:12,454 - INFO - if query loaded, return 715
+loop_logger - 2025-08-14 14:16:12,736 - INFO - 1
+db_pull_logger - 2025-08-14 14:22:17,897 - INFO - if query loaded, return 715
+loop_logger - 2025-08-14 14:22:18,121 - INFO - no new rows founds!!
+db_pull_logger - 2025-08-14 14:42:13,246 - INFO - if query loaded, return 715
+loop_logger - 2025-08-14 14:42:13,469 - INFO - starting automateed looping: 60 seconds!
+loop_logger - 2025-08-14 14:42:13,469 - INFO - starting to find new rows at 2025-08-14 14:42:13.469883
+loop_logger - 2025-08-14 14:42:13,489 - INFO - no new rows founds!!
+loop_logger - 2025-08-14 14:42:13,489 - INFO - waiting for 60
+loop_logger - 2025-08-14 14:43:13,490 - INFO - starting to find new rows at 2025-08-14 14:43:13.490642
+loop_logger - 2025-08-14 14:43:13,512 - INFO - no new rows founds!!
+loop_logger - 2025-08-14 14:43:13,513 - INFO - waiting for 60
+loop_logger - 2025-08-14 14:44:13,514 - INFO - starting to find new rows at 2025-08-14 14:44:13.514865
+loop_logger - 2025-08-14 14:44:13,587 - INFO - 1
+loop_logger - 2025-08-14 14:44:13,587 - INFO - waiting for 60
+loop_logger - 2025-08-14 14:45:13,589 - INFO - starting to find new rows at 2025-08-14 14:45:13.589025
+loop_logger - 2025-08-14 14:45:13,603 - INFO - no new rows founds!!
+loop_logger - 2025-08-14 14:45:13,603 - INFO - waiting for 60
+loop_logger - 2025-08-14 14:46:13,605 - INFO - starting to find new rows at 2025-08-14 14:46:13.605845
+loop_logger - 2025-08-14 14:46:13,625 - INFO - no new rows founds!!
+loop_logger - 2025-08-14 14:46:13,626 - INFO - waiting for 60
+loop_logger - 2025-08-14 14:47:13,628 - INFO - starting to find new rows at 2025-08-14 14:47:13.628201
+loop_logger - 2025-08-14 14:47:13,654 - INFO - no new rows founds!!
+loop_logger - 2025-08-14 14:47:13,655 - INFO - waiting for 60
+loop_logger - 2025-08-14 14:48:13,657 - INFO - starting to find new rows at 2025-08-14 14:48:13.657886
+loop_logger - 2025-08-14 14:48:13,677 - INFO - no new rows founds!!
+loop_logger - 2025-08-14 14:48:13,679 - INFO - waiting for 60
+loop_logger - 2025-08-14 14:49:13,680 - INFO - starting to find new rows at 2025-08-14 14:49:13.680730
+loop_logger - 2025-08-14 14:49:13,700 - INFO - no new rows founds!!
+loop_logger - 2025-08-14 14:49:13,700 - INFO - waiting for 60
+loop_logger - 2025-08-14 14:50:13,702 - INFO - starting to find new rows at 2025-08-14 14:50:13.702482
+loop_logger - 2025-08-14 14:50:13,718 - INFO - no new rows founds!!
+loop_logger - 2025-08-14 14:50:13,718 - INFO - waiting for 60
+loop_logger - 2025-08-14 14:51:13,719 - INFO - starting to find new rows at 2025-08-14 14:51:13.719814
+loop_logger - 2025-08-14 14:51:13,735 - INFO - no new rows founds!!
+loop_logger - 2025-08-14 14:51:13,735 - INFO - waiting for 60
+loop_logger - 2025-08-14 14:52:13,736 - INFO - starting to find new rows at 2025-08-14 14:52:13.736197
+loop_logger - 2025-08-14 14:52:13,756 - INFO - no new rows founds!!
+loop_logger - 2025-08-14 14:52:13,756 - INFO - waiting for 60
+loop_logger - 2025-08-14 14:53:13,767 - INFO - starting to find new rows at 2025-08-14 14:53:13.767318
+loop_logger - 2025-08-14 14:53:13,795 - INFO - no new rows founds!!
+loop_logger - 2025-08-14 14:53:13,799 - INFO - waiting for 60
+loop_logger - 2025-08-14 14:54:13,800 - INFO - starting to find new rows at 2025-08-14 14:54:13.800868
+loop_logger - 2025-08-14 14:54:13,823 - INFO - no new rows founds!!
+loop_logger - 2025-08-14 14:54:13,824 - INFO - waiting for 60
+loop_logger - 2025-08-14 14:55:13,828 - INFO - starting to find new rows at 2025-08-14 14:55:13.828125
+loop_logger - 2025-08-14 14:55:13,847 - INFO - no new rows founds!!
+loop_logger - 2025-08-14 14:55:13,847 - INFO - waiting for 60
+loop_logger - 2025-08-14 14:56:13,849 - INFO - starting to find new rows at 2025-08-14 14:56:13.849762
+loop_logger - 2025-08-14 14:56:13,871 - INFO - no new rows founds!!
+loop_logger - 2025-08-14 14:56:13,871 - INFO - waiting for 60
+loop_logger - 2025-08-14 14:57:13,874 - INFO - starting to find new rows at 2025-08-14 14:57:13.874102
+loop_logger - 2025-08-14 14:57:13,894 - INFO - no new rows founds!!
+loop_logger - 2025-08-14 14:57:13,894 - INFO - waiting for 60
+loop_logger - 2025-08-14 14:58:13,897 - INFO - starting to find new rows at 2025-08-14 14:58:13.897357
+loop_logger - 2025-08-14 14:58:13,918 - INFO - no new rows founds!!
+loop_logger - 2025-08-14 14:58:13,920 - INFO - waiting for 60
+loop_logger - 2025-08-14 14:59:13,921 - INFO - starting to find new rows at 2025-08-14 14:59:13.921984
+loop_logger - 2025-08-14 14:59:13,946 - INFO - no new rows founds!!
+loop_logger - 2025-08-14 14:59:13,947 - INFO - waiting for 60
+loop_logger - 2025-08-14 15:00:13,949 - INFO - starting to find new rows at 2025-08-14 15:00:13.949370
+loop_logger - 2025-08-14 15:00:13,970 - INFO - no new rows founds!!
+loop_logger - 2025-08-14 15:00:13,973 - INFO - waiting for 60
+loop_logger - 2025-08-14 15:01:13,974 - INFO - starting to find new rows at 2025-08-14 15:01:13.974705
+loop_logger - 2025-08-14 15:01:13,991 - INFO - no new rows founds!!
+loop_logger - 2025-08-14 15:01:13,991 - INFO - waiting for 60
+loop_logger - 2025-08-14 15:02:13,993 - INFO - starting to find new rows at 2025-08-14 15:02:13.993385
+loop_logger - 2025-08-14 15:02:14,016 - INFO - no new rows founds!!
+loop_logger - 2025-08-14 15:02:14,018 - INFO - waiting for 60
+loop_logger - 2025-08-14 15:03:14,019 - INFO - starting to find new rows at 2025-08-14 15:03:14.019640
+loop_logger - 2025-08-14 15:03:14,034 - INFO - no new rows founds!!
+loop_logger - 2025-08-14 15:03:14,040 - INFO - waiting for 60
+loop_logger - 2025-08-14 15:04:14,042 - INFO - starting to find new rows at 2025-08-14 15:04:14.042585
+loop_logger - 2025-08-14 15:04:14,079 - INFO - no new rows founds!!
+loop_logger - 2025-08-14 15:04:14,080 - INFO - waiting for 60
+loop_logger - 2025-08-14 15:05:14,081 - INFO - starting to find new rows at 2025-08-14 15:05:14.081556
+loop_logger - 2025-08-14 15:05:14,099 - INFO - no new rows founds!!
+loop_logger - 2025-08-14 15:05:14,099 - INFO - waiting for 60
+loop_logger - 2025-08-14 15:06:14,100 - INFO - starting to find new rows at 2025-08-14 15:06:14.100834
+loop_logger - 2025-08-14 15:06:14,121 - INFO - no new rows founds!!
+loop_logger - 2025-08-14 15:06:14,121 - INFO - waiting for 60
+loop_logger - 2025-08-14 15:07:14,123 - INFO - starting to find new rows at 2025-08-14 15:07:14.123475
+loop_logger - 2025-08-14 15:07:14,145 - INFO - no new rows founds!!
+loop_logger - 2025-08-14 15:07:14,146 - INFO - waiting for 60
+loop_logger - 2025-08-14 15:08:14,147 - INFO - starting to find new rows at 2025-08-14 15:08:14.147706
+loop_logger - 2025-08-14 15:08:14,279 - INFO - no new rows founds!!
+loop_logger - 2025-08-14 15:08:14,279 - INFO - waiting for 60
+loop_logger - 2025-08-14 15:09:14,280 - INFO - starting to find new rows at 2025-08-14 15:09:14.280816
+loop_logger - 2025-08-14 15:09:14,315 - INFO - no new rows founds!!
+loop_logger - 2025-08-14 15:09:14,315 - INFO - waiting for 60
+loop_logger - 2025-08-14 15:10:14,318 - INFO - starting to find new rows at 2025-08-14 15:10:14.318273
+loop_logger - 2025-08-14 15:10:14,333 - INFO - no new rows founds!!
+loop_logger - 2025-08-14 15:10:14,333 - INFO - waiting for 60
+loop_logger - 2025-08-14 15:11:14,334 - INFO - starting to find new rows at 2025-08-14 15:11:14.334665
+loop_logger - 2025-08-14 15:11:14,354 - INFO - no new rows founds!!
+loop_logger - 2025-08-14 15:11:14,356 - INFO - waiting for 60
+loop_logger - 2025-08-14 15:12:14,358 - INFO - starting to find new rows at 2025-08-14 15:12:14.358105
+loop_logger - 2025-08-14 15:12:14,377 - INFO - no new rows founds!!
+loop_logger - 2025-08-14 15:12:14,379 - INFO - waiting for 60
+loop_logger - 2025-08-14 15:13:14,381 - INFO - starting to find new rows at 2025-08-14 15:13:14.381731
+loop_logger - 2025-08-14 15:13:14,402 - INFO - no new rows founds!!
+loop_logger - 2025-08-14 15:13:14,403 - INFO - waiting for 60
+loop_logger - 2025-08-14 15:14:14,404 - INFO - starting to find new rows at 2025-08-14 15:14:14.404935
+loop_logger - 2025-08-14 15:14:14,430 - INFO - no new rows founds!!
+loop_logger - 2025-08-14 15:14:14,433 - INFO - waiting for 60
+loop_logger - 2025-08-14 15:15:14,435 - INFO - starting to find new rows at 2025-08-14 15:15:14.435809
+loop_logger - 2025-08-14 15:15:14,454 - INFO - no new rows founds!!
+loop_logger - 2025-08-14 15:15:14,454 - INFO - waiting for 60
+loop_logger - 2025-08-14 15:16:14,456 - INFO - starting to find new rows at 2025-08-14 15:16:14.456771
+loop_logger - 2025-08-14 15:16:14,478 - INFO - no new rows founds!!
+loop_logger - 2025-08-14 15:16:14,478 - INFO - waiting for 60
+loop_logger - 2025-08-14 15:17:14,480 - INFO - starting to find new rows at 2025-08-14 15:17:14.480829
+loop_logger - 2025-08-14 15:17:14,498 - INFO - no new rows founds!!
+loop_logger - 2025-08-14 15:17:14,499 - INFO - waiting for 60
+loop_logger - 2025-08-14 15:18:14,500 - INFO - starting to find new rows at 2025-08-14 15:18:14.500782
+loop_logger - 2025-08-14 15:18:14,522 - INFO - no new rows founds!!
+loop_logger - 2025-08-14 15:18:14,523 - INFO - waiting for 60
+loop_logger - 2025-08-14 15:19:14,524 - INFO - starting to find new rows at 2025-08-14 15:19:14.524296
+loop_logger - 2025-08-14 15:19:14,548 - INFO - no new rows founds!!
+loop_logger - 2025-08-14 15:19:14,549 - INFO - waiting for 60
+loop_logger - 2025-08-14 15:20:14,551 - INFO - starting to find new rows at 2025-08-14 15:20:14.551769
+loop_logger - 2025-08-14 15:20:14,570 - INFO - no new rows founds!!
+loop_logger - 2025-08-14 15:20:14,570 - INFO - waiting for 60
+loop_logger - 2025-08-14 15:21:14,572 - INFO - starting to find new rows at 2025-08-14 15:21:14.572646
+loop_logger - 2025-08-14 15:21:14,590 - INFO - no new rows founds!!
+loop_logger - 2025-08-14 15:21:14,590 - INFO - waiting for 60
+loop_logger - 2025-08-14 15:22:14,593 - INFO - starting to find new rows at 2025-08-14 15:22:14.593769
+loop_logger - 2025-08-14 15:22:14,618 - INFO - no new rows founds!!
+loop_logger - 2025-08-14 15:22:14,619 - INFO - waiting for 60
+loop_logger - 2025-08-14 15:23:14,620 - INFO - starting to find new rows at 2025-08-14 15:23:14.620770
+loop_logger - 2025-08-14 15:23:14,629 - INFO - no new rows founds!!
+loop_logger - 2025-08-14 15:23:14,629 - INFO - waiting for 60
+loop_logger - 2025-08-14 15:24:14,633 - INFO - starting to find new rows at 2025-08-14 15:24:14.633179
+loop_logger - 2025-08-14 15:24:14,640 - INFO - no new rows founds!!
+loop_logger - 2025-08-14 15:24:14,640 - INFO - waiting for 60
+loop_logger - 2025-08-14 15:25:14,644 - INFO - starting to find new rows at 2025-08-14 15:25:14.644535
+loop_logger - 2025-08-14 15:25:14,650 - INFO - no new rows founds!!
+loop_logger - 2025-08-14 15:25:14,650 - INFO - waiting for 60
+loop_logger - 2025-08-14 15:26:14,654 - INFO - starting to find new rows at 2025-08-14 15:26:14.654082
+loop_logger - 2025-08-14 15:26:14,659 - INFO - no new rows founds!!
+loop_logger - 2025-08-14 15:26:14,659 - INFO - waiting for 60
+loop_logger - 2025-08-14 15:27:14,665 - INFO - starting to find new rows at 2025-08-14 15:27:14.665223
+loop_logger - 2025-08-14 15:27:14,669 - INFO - no new rows founds!!
+loop_logger - 2025-08-14 15:27:14,669 - INFO - waiting for 60
+loop_logger - 2025-08-14 15:28:14,673 - INFO - starting to find new rows at 2025-08-14 15:28:14.673678
+loop_logger - 2025-08-14 15:28:14,679 - INFO - no new rows founds!!
+loop_logger - 2025-08-14 15:28:14,679 - INFO - waiting for 60
+loop_logger - 2025-08-14 15:29:14,684 - INFO - starting to find new rows at 2025-08-14 15:29:14.684115
+loop_logger - 2025-08-14 15:29:14,692 - INFO - no new rows founds!!
+loop_logger - 2025-08-14 15:29:14,692 - INFO - waiting for 60
+loop_logger - 2025-08-14 15:30:14,697 - INFO - starting to find new rows at 2025-08-14 15:30:14.697279
+loop_logger - 2025-08-14 15:30:14,706 - INFO - no new rows founds!!
+loop_logger - 2025-08-14 15:30:14,706 - INFO - waiting for 60
+loop_logger - 2025-08-14 15:31:14,710 - INFO - starting to find new rows at 2025-08-14 15:31:14.710162
+loop_logger - 2025-08-14 15:31:14,719 - INFO - no new rows founds!!
+loop_logger - 2025-08-14 15:31:14,719 - INFO - waiting for 60
+loop_logger - 2025-08-14 15:32:14,723 - INFO - starting to find new rows at 2025-08-14 15:32:14.723407
+loop_logger - 2025-08-14 15:32:14,729 - INFO - no new rows founds!!
+loop_logger - 2025-08-14 15:32:14,729 - INFO - waiting for 60
+loop_logger - 2025-08-14 15:33:14,732 - INFO - starting to find new rows at 2025-08-14 15:33:14.732285
+loop_logger - 2025-08-14 15:33:14,739 - INFO - no new rows founds!!
+loop_logger - 2025-08-14 15:33:14,739 - INFO - waiting for 60
+loop_logger - 2025-08-14 15:34:14,740 - INFO - starting to find new rows at 2025-08-14 15:34:14.740640
+loop_logger - 2025-08-14 15:34:14,749 - INFO - no new rows founds!!
+loop_logger - 2025-08-14 15:34:14,749 - INFO - waiting for 60
+loop_logger - 2025-08-14 15:35:14,753 - INFO - starting to find new rows at 2025-08-14 15:35:14.753238
+loop_logger - 2025-08-14 15:35:14,759 - INFO - no new rows founds!!
+loop_logger - 2025-08-14 15:35:14,759 - INFO - waiting for 60
+loop_logger - 2025-08-14 15:36:14,762 - INFO - starting to find new rows at 2025-08-14 15:36:14.762155
+loop_logger - 2025-08-14 15:36:14,769 - INFO - no new rows founds!!
+loop_logger - 2025-08-14 15:36:14,769 - INFO - waiting for 60
+loop_logger - 2025-08-14 15:37:14,773 - INFO - starting to find new rows at 2025-08-14 15:37:14.773296
+loop_logger - 2025-08-14 15:37:14,804 - INFO - 1
+loop_logger - 2025-08-14 15:37:14,804 - INFO - waiting for 60
+loop_logger - 2025-08-14 15:38:14,807 - INFO - starting to find new rows at 2025-08-14 15:38:14.807099
+loop_logger - 2025-08-14 15:38:14,822 - INFO - no new rows founds!!
+loop_logger - 2025-08-14 15:38:14,823 - INFO - waiting for 60
+loop_logger - 2025-08-14 15:39:14,824 - INFO - starting to find new rows at 2025-08-14 15:39:14.824240
+loop_logger - 2025-08-14 15:39:14,830 - INFO - no new rows founds!!
+loop_logger - 2025-08-14 15:39:14,830 - INFO - waiting for 60

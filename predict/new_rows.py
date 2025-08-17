@@ -44,7 +44,7 @@ def get_new_rows():
           })
     df_results.to_sql("pred",con=engine, if_exists="append", index=False)
       
-    logger.info(f"{len(df_results)}")
+    logger.info(f"{len(df_results)} row/rows were found! proceed to check predictions!!")
   except Exception as e:
     logger.error(f"Error in get_new_rows: {e}")
 

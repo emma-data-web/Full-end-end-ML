@@ -22,6 +22,7 @@ logger = get_logger(config["logger_names"]["train_logger"],config["log_path"]["t
 
 
 df = get_data()
+
 def train_model(filename="trained_model.pkl"):
   try:
     logger.info('starting the training process')

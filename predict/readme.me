@@ -1,0 +1,75 @@
+# Titanic ML Prediction System 🚢
+
+## 📌 Project Overview
+This project demonstrates an **end-to-end Machine Learning pipeline** using the famous Titanic dataset, but instead of CSV files, the data is stored and processed directly from a **MySQL database**.  
+
+The system:
+- Pulls Titanic passenger data from a MySQL database.  
+- Performs preprocessing and trains an **XGBoost model**.  
+- Saves predictions back to the database.  
+- Runs a **background automation system** that continuously checks for new rows and predicts outcomes in real-time.  
+- Uses **unittests** to ensure reliability.  
+- Is packaged and deployed inside **Docker** for portability.  
+
+---
+
+## ⚙️ Features
+- **Database-driven ML** – Titanic dataset stored and managed in MySQL.  
+- **Automated Predictions** – Background loop fetches new data and updates predictions seamlessly.  
+- **XGBoost Model** – High-performance gradient boosting algorithm.  
+- **Unit Testing** – Core functionality validated with unittests.  
+- **Dockerized** – Easy setup and deployment in any environment.  
+
+---
+
+##  Project Structure
+├── feature_engineering.py # Custom feature engineering functions
+├── model_pipeline.py # Pipeline with preprocessing + XGBoost
+├── prediction_loop.py # Manual prediction script
+├── predict_auto_loop.py # Automated background prediction system
+├── tests/ # Unit tests
+├── Dockerfile # Docker setup
+├── requirements.txt # Dependencies
+└── README.md # Project documentation
+
+### 1. Clone Repository
+```bash
+git clone git@github.com:emma-data-web/looped_database_model.git
+cd looped_database_model
+
+Dependencies
+pip install -r requirements.txt
+
+Train the model
+python model_pipeline.py
+
+Run Testing
+python -m unittest discover tests
+
+Docker usaage
+docker build -t titanic-ml .
+docker run -d titanic-ml
+
+ Tech Stack
+
+Python 3
+
+MySQL
+
+XGBoost
+
+pandas / scikit-learn
+
+unittest
+
+Docker
+
+Future Improvements
+
+Add API endpoints for prediction (FastAPI/Flask).
+
+Implement CI/CD for automated deployment.
+
+Enhance logging and monitoring for production environments.
+
+Author: Nwankwo Emmnauel Ota

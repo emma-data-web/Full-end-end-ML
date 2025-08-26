@@ -5,6 +5,7 @@ import joblib
 from utils.config_hepler import load_config
 from utils.helper import get_engine
 
+# check other script so you dont get lost on these fucntion calls
 df = get_data()
 config = load_config()
 engine = get_engine()
